@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Prettier
+settings.json
+.prettierrc.json
+
+# System folders
+.DS_Store
